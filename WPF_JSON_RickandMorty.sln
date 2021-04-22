@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_JSON_RickandMorty", "WPF_JSON_RickandMorty\WPF_JSON_RickandMorty.csproj", "{BA258524-5239-435D-A31B-95BE7E351477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA258524-5239-435D-A31B-95BE7E351477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA258524-5239-435D-A31B-95BE7E351477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA258524-5239-435D-A31B-95BE7E351477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA258524-5239-435D-A31B-95BE7E351477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CDE6F0B-0B5F-4E96-90D0-102E12C07B3C}
+	EndGlobalSection
+EndGlobal
